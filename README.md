@@ -51,7 +51,7 @@ File import
 
 Incorrect data
 
-![2_9](https://user-images.githubusercontent.com/103432419/212705801-b071c069-6765-446e-b92b-0df4601bd950.png)
+![изображение](https://user-images.githubusercontent.com/103432419/212706033-130dd795-164f-4a45-bfce-4430ec753169.png)
 
 
 
