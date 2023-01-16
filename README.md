@@ -23,35 +23,34 @@ The application also implements console functions and importing files through th
 Screenshots illustrating the operation of the program.
 Coordinate calculation and rendering
 
-![2_1](https://user-images.githubusercontent.com/103432419/212704096-a04095cc-9eca-4c86-8bdf-61ce3813317a.png)
+![изображение](https://user-images.githubusercontent.com/103432419/212706710-cee8405e-521d-4c4c-9e5d-ab327185975d.png)
 
 Export
 
-![2_2](https://user-images.githubusercontent.com/103432419/212704213-0dda61fa-aa67-4457-b5df-376032280666.png)
+![изображение](https://user-images.githubusercontent.com/103432419/212706824-4f079181-6c44-404e-8e3f-20a2329b315b.png)
 
-
-
-![2_3](https://user-images.githubusercontent.com/103432419/212704697-ec639deb-996c-4d0e-8c22-41fa7a25a9e1.png)
+![изображение](https://user-images.githubusercontent.com/103432419/212707716-144d4d83-469c-4030-93c1-4df2e9343904.png)
 
 Error output of unspecified file address
 
-![2_4](https://user-images.githubusercontent.com/103432419/212704938-bce8391d-f8fc-4f1d-a951-eddd162deb10.png)
+![изображение](https://user-images.githubusercontent.com/103432419/212707843-046fa6b7-f5d8-4fe0-9039-eaece22a3baf.png)
 
 Output of missing data error for file export
 
-![2_5](https://user-images.githubusercontent.com/103432419/212705165-71743c67-9943-43d5-8162-c1712ec84022.png)
+![изображение](https://user-images.githubusercontent.com/103432419/212708061-26963537-ccc5-4745-a91c-5142779541f9.png)
 
 File import
 
-![2_6](https://user-images.githubusercontent.com/103432419/212705380-e62d2220-1d1b-4c6a-b145-52e6ae920300.png)
+![изображение](https://user-images.githubusercontent.com/103432419/212708129-1ed4479e-6a83-4841-824c-2b6a16630707.png)
 
-![2_7](https://user-images.githubusercontent.com/103432419/212705501-11d8c845-988b-4372-acbe-a9af1c3a31c3.png)
+![изображение](https://user-images.githubusercontent.com/103432419/212708736-9531bf40-b3a7-4536-a135-688d9dead3a8.png)
 
-![2_8](https://user-images.githubusercontent.com/103432419/212705599-1163ae6f-4c38-4059-8f0b-5b7ec519697b.png)
+![изображение](https://user-images.githubusercontent.com/103432419/212708819-0a461acd-f336-432c-ab6f-75ac5bfb7489.png)
 
 Incorrect data
 
 ![изображение](https://user-images.githubusercontent.com/103432419/212706033-130dd795-164f-4a45-bfce-4430ec753169.png)
+
 
 
 
